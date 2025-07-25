@@ -37,12 +37,13 @@ cd ai-calendar-agent
 
 ### 2. Set Up Environment
 
+install vscode extension to use ipynb
+Open anaconda prompt and make your current directy that of this repository
 ```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-cp .env.example .env
+conda env create -f orgo-env.yml
+conda activate orgo-env
 ```
+Select python kernel of the ipynb to be orgo-env
 
 ### 3. Configure API Keys
 
