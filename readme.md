@@ -142,9 +142,3 @@ calendar_url: "https://calendar.google.com"
 ## 🤝 Contributions
 
 Pull requests are welcome! For major changes, open an issue first to discuss your idea.
-
----
-
-## 📜 License
-
-MIT License — free to use, fork, and modify.
