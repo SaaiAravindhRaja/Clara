@@ -45,6 +45,8 @@ conda activate orgo-env
 ```
 Select python kernel of the ipynb to be orgo-env
 
+Alternatively, if you prefer using .py files, run the python file through anaconda prompt, like a normal python file
+
 ### 3. Configure API Keys
 
 Edit `.env` with your credentials:
