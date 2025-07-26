@@ -1,0 +1,22 @@
+name: orgo-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - jupyter
+  - ipykernel
+  - pip:
+    - python-dotenv
+    - orgo
+    - openai
+    - anthropic
+    - requests
+    - selenium
+    - pillow
+    - numpy
+    - pandas
+    - matplotlib
+    - ipython
+    - jupyterlab 
