@@ -1,0 +1,10 @@
+# Ignore Orgo state directory
+.orgo
+# Ignore environment variable file
+.env
+# Ignore secrets file
+secrets.txt
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
