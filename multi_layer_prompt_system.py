@@ -147,7 +147,8 @@ Create a detailed, step-by-step instruction for Agent-S to create a calendar eve
 
 CRITICAL: Pay special attention to date and time formatting:
 - Date format: If date is "2025-08-22", enter it as "August 22, 2025" or "08/22/2025"
-- Time format: If time is "08:00", enter it as "8:00 AM" or "08:00"
+- Time format: If time is "08:32", type in as "832" and press ENTER. If the time is "16:00", type in "1600" and press ENTER.
+- Detials on setting the time: The start time can be set by clicking on the input box on the left, beside the day indicating input.
 - Duration: If duration is "2 hours", set end time accordingly (e.g., 8:00 AM to 10:00 AM)
 
 The instruction should be:
